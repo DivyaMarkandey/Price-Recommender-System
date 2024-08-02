@@ -1,1 +1,2 @@
 # Price-Recommender-System
+This project aims to develop a Retail Price Recommender system to maximize profits through data-driven insights and analysis. By leveraging historical sales data, the system identifies optimal pricing strategies for various products, considering factors such as date, product attributes, and sales figures. The primary objective is to recommend a price point for each product that maximizes profitability without compromising on sales volume.
